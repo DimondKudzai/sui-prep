@@ -1,6 +1,6 @@
 # SuiTipJar - Solidity on Termux Android
 
-> Compiling and deploying Web3 contracts from a mobile terminal in Harare 🇿🇼  
+> Compiling and deploying Web3 contracts from a mobile terminal in Harare, Zimbabwe 🇿🇼  
 > Building toward Rust/Sui Move for Mysten Labs ecosystem
 
 Proof of Work
@@ -14,7 +14,7 @@ $ solcjs --version
 $ solcjs --bin --abi SuiTipJar.sol
 $ ls
 SuiTipJar.sol    SuiTipJar_sol_SuiTipJar.bin    SuiTipJar_sol_SuiTipJar.abi
-
+```
 
 *Screenshot from Termux:*
 ![Termux Compile Proof](./demo.png)
